@@ -1,0 +1,111 @@
+.head1{
+    font-family: Arial;
+font-size: 64px;
+
+ color: black;
+
+}
+.head2{
+font-family: Arial;
+font-weight: 600;
+font-style: Semi Bold;
+font-size: 64px;
+line-height: 76px;
+letter-spacing: 0%;
+color: green;
+}
+.up{
+    font-weight: 400;
+    border: none;
+    color: green;
+    background-color: silver;
+    font-size: 14px;
+    margin-top: -6px;
+}
+.down{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: none;
+    margin-top: -8px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+.navbar{
+    display: flex;
+    gap: 30px;
+    margin: auto;
+    justify-content: center;
+    background-color: #F5F7FA;
+    border: none;
+    margin-top: -30px;
+    height: 30px;
+    padding: 20px; 
+    justify-content: space-between;
+    padding-top: 50px;
+    
+}
+.click{
+    background-color: green;
+    color: white;
+}
+.lessons{
+    padding-top: 90px;
+}
+.mybutton{
+    background-color: green;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 90px;
+    position: relative;
+    top: -150px; 
+}
+ .first{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F5F7FA;
+    margin-top: 10px;
+ }
+ .para1{
+    text-align: center;
+ }
+ .para1{
+    text-align: center;
+    margin-top: -150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #4D4D4D;
+    font-weight: 800;
+    height: 200px;
+    margin-bottom: 60px;
+
+ }
+ .para2{
+    text-align: center;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-bottom: 100px;
+
+ }
+ .mydot{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    }
+    .one{
+        text-align: center;
+        font-size: 36px;
+    }
+    .two{
+        text-align: center;
+        font-size: 16;
+        margin-bottom: 100px;
+    }
+
+
+ 
